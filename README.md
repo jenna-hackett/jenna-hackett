@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jenna-hackett
-- 👀 I’m interested in ... programming and reading books!
+- 👀 I’m interested in ... programming and reading!
 - 🌱 I’m currently learning ... programming languages! I am a student at Southern Alberta Institute of Technology (SAIT), studying Software Development!
 - 💞️ I’m looking to collaborate on ... well, I'm not quite sure yet! I'm still learning the fundamentals :)
 - 📫 How to reach me ... email: jenna.hackett96@gmail.com
